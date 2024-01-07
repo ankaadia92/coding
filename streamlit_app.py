@@ -113,9 +113,6 @@ def plotBar(data, x, y, color):
     
     return fig, ax
 
-
-
-
 #fig1, ax1 = plotBar(data=jumlahsampah, x='kategorisampah', y='jumlahsampah', color='Purples')
 
 #Supaya urut rapih grafiknya:
@@ -130,7 +127,3 @@ with row3_middle:
     st.pyplot(fig1)
 
 #plt.show()
-
-
-
-
