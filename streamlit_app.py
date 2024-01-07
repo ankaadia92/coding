@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(layout = "wide") #konfigurasi ukuran halaman web
-datasampah = pd.read_excel("D:/Python/datasumbersampah.xlsx") #baca data excelnya
+datasampah = pd.read_excel("datasumbersampah.xlsx") #baca data excelnya
 
 #print(datasampah)
 
