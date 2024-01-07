@@ -1,0 +1,6 @@
+#library yang akan dipanggil
+numpy
+pandas
+openpyxl
+matplotlib
+streamlit
